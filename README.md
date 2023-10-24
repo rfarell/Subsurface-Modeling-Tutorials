@@ -58,9 +58,7 @@ History matching is a crucial step in reservoir simulation for calibrating the m
 Making informed decisions over the life of a reservoir is challenging due to various uncertainties. This section dives into methodologies to tackle these challenges effectively.
 
 - [Decision Making in Black Oil Models](./notebooks/04_Decision_Making_under_Uncertainty/04_01_Decision_Making_in_Black_Oil_Models.ipynb)
-  - [Google Colab](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob
-
-/main/notebooks/04_Decision_Making_under_Uncertainty/04_01_Decision_Making_in_Black_Oil_Models.ipynb)
+  - [Google Colab](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/04_Decision_Making_under_Uncertainty/04_01_Decision_Making_in_Black_Oil_Models.ipynb)
 
 ---
 
