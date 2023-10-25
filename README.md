@@ -76,3 +76,4 @@ We do use the following references throughout:
 
 ## Todos
 - [ ] Refine the scope of the repository more clearly. What specifically is our goal wrt the black oil equations?
+- [ ] Add krigin demos to the repo
