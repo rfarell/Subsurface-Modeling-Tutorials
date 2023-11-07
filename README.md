@@ -62,6 +62,10 @@ Interfacing with the Open Porous Media Flow Simulator (OPM) is a key component o
 - [SPE Benchmark 1 UFNO](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/05_Open_Porous_Media_Flow_Simulator/05_02_OPM_SPE_Benchmark1_UFNO.ipynb)
 
 
+### Physics Informed Motion Codes
+- [SPE Benchmark 1 UFNO](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/06_appendix/Physics_Informed_Motion_Codes.ipynb)
+
+
 ## Code Attribution and References
 
 This repository comprises tutorials containing code adapted or inspired by seminal works in the field. At the onset of each notebook, we cite these sources as a testament to our commitment to intellectual integrity and the open-source ethos. We also encourage users to consult the cited works for a comprehensive theoretical foundation and additional applications of the methods.
