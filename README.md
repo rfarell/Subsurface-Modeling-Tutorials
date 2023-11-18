@@ -53,7 +53,9 @@ Making informed decisions over the life of a reservoir is challenging due to var
 
 - [Decision Making in Black Oil Models](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/04_Decision_Making_under_Uncertainty/04_01_Decision_Making_in_Black_Oil_Models.ipynb)
 
----
+- [Sequential Decision Making](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/06_appendix/01_SequentialDecisionMakingGame.ipynb)
+
+
 
 ### Open Porous Media Flow Simulator
 Interfacing with the Open Porous Media Flow Simulator (OPM) is a key component of this repository. The following notebooks provide a brief overview of the simulator and its capabilities.
