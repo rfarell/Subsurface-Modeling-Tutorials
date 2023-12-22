@@ -67,6 +67,11 @@ Interfacing with the Open Porous Media Flow Simulator (OPM) is a key component o
 ### Physics Informed Motion Codes
 - [Physics Informed Motion Code](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/06_appendix/Physics_Informen_Motion_Codes.ipynb)
 - [Middle Bakken Coregionalization](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/06_appendix/06_02_datasets.ipynb)
+- [Three-Phase-Flow](https://colab.research.google.com/github/rfarell/Subsurface-Modeling-Tutorials/blob/main/notebooks/05_Open_Porous_Media_Flow_Simulator/05_03_OPM_SPE_Benchmark1_MOGP.ipynb)
+
+
+
+
 
 ## Code Attribution and References
 
